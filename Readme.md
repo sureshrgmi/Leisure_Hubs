@@ -23,5 +23,7 @@ K-Means: [Brighton](K_Means_Brighton.ipynb)
 ### Visualization 
 Performing the visualization of the data utilizing the spatial, sentiment and temporal features and gathering the information from the data.
 
+The reports are generated using PowerBI and the screenshots of the report are here. [Link](Reports)
+
 ### Recommendation
 Making recommendations based on the analysis result to the relevant stakeholders such as small businesses, startups, local council and tourism organizations.
