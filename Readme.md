@@ -3,6 +3,7 @@ This project involves utilizing twitter data to analyze the most frequent leisur
 
 ### Data Collection
 Collecting a large number of geo-tagged tweets from Twitter that are posted in London and Brighton.
+https://github.com/sureshrgmi/Leisure_Hubs/blob/afef4df2b8c313b4968ee85f08ab35419e85adf4/Collecting_tweets_from_twitter_API.md
 
 ### Data Preprocessing
 Preprocessing the collected tweets by removing irrelevent information such as URLs, hashtags and user mentions and only retai  the necessary text and geo-location information.
