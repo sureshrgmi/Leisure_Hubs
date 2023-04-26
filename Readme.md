@@ -16,6 +16,10 @@ Following is the link to the code for data preprocessing and sentiment analysis.
 ### Location Clustering
 Using spatial clustering algorithms such as K-Means clustering and DBSCAN to group the tweets into different clusters representing potential leisure hubs.
 
+Here is the link to the files 
+DBSCAN : [Brighton](DBSCAN-Brighton.ipynb) [London](DBSCAN-London.ipynb)
+K-Means: [Brighton](K_Means_Brighton.ipynb)
+
 ### Visualization 
 Performing the visualization of the data utilizing the spatial, sentiment and temporal features and gathering the information from the data.
 
