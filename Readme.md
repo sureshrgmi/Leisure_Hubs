@@ -2,8 +2,7 @@
 This project involves utilizing twitter data to analyze the most frequent leisure hubs locations in London and Brighton in order to recommend suitable locations for the businesses to start their new locations or expand. The project involves the following phases:
 
 ### Data Collection
-Collecting a large number of geo-tagged tweets from Twitter that are posted in London and Brighton.
-https://github.com/sureshrgmi/Leisure_Hubs/blob/afef4df2b8c313b4968ee85f08ab35419e85adf4/Collecting_tweets_from_twitter_API.md
+Collecting a large number of geo-tagged tweets from Twitter that are posted in London and Brighton. [Details](scrape_tweets.md)
 
 ### Data Preprocessing
 Preprocessing the collected tweets by removing irrelevent information such as URLs, hashtags and user mentions and only retai  the necessary text and geo-location information.
