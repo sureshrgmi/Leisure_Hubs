@@ -9,11 +9,12 @@ Once the data is collected from twitter API (which will be a large CSV in GBs), 
 ### Data Preprocessing
 Preprocessing the collected tweets by removing irrelevent information such as URLs, hashtags and user mentions and only retai  the necessary text and geo-location information.
 
-### Location Clustering
-Using spatial clustering algorithms such as K-Means clustering and DBSCAN to group the tweets into different clusters representing potential leisure hubs.
-
 ### Sentiment Analysis
 Performing sentiment analysis on the tweets in each location cluster to determine the overall sentiment associated with the location
+
+Following is the link to the code for data preprocessing and sentiment analysis. [Link](Data_Preprocessing_And_Sentiment_Analysis.ipynb)
+### Location Clustering
+Using spatial clustering algorithms such as K-Means clustering and DBSCAN to group the tweets into different clusters representing potential leisure hubs.
 
 ### Visualization 
 Performing the visualization of the data utilizing the spatial, sentiment and temporal features and gathering the information from the data.
