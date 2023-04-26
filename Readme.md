@@ -4,7 +4,7 @@ This project involves utilizing twitter data to analyze the most frequent leisur
 ### Data Collection
 Collecting a large number of geo-tagged tweets from Twitter that are posted in London and Brighton. [Details](Collecting_tweets_from_twitter_API.md)
 
-Once the data is collected from twitter API (which will be a large CSV in GBs), only the relevant records/data should be kept which can be done using following code written in Python. Link
+Once the data is collected from twitter API (which will be a large CSV in GBs), only the relevant records/data should be kept which can be done using following code written in Python. [Link](Reading_Large_CSV.ipynb)
 
 ### Data Preprocessing
 Preprocessing the collected tweets by removing irrelevent information such as URLs, hashtags and user mentions and only retai  the necessary text and geo-location information.
